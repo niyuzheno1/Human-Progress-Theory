@@ -14,6 +14,7 @@ The truth is that only if we have atomic energy, we have power to use electricit
 
 Let alone war has brought us to a new era of energy. It also opens up new frontier in computing, specifically in the field of large-scale computation. In world war 2, we have witnessed the first computer was invented in the University of Pennsylvania, ENIAC. Famous people, like Alan Turing and John von Neumann have contributed to the advancement of computer science since then. In the 1960s, we saw the invention of integrated circuit with transistor in IBM research laboratory in New York. This made it possible for microprocessor to exist as well as smaller, more powerful computers.Despite these technological leaps, computing has remained out-of-reach for many
 
+Now, we have also opened up a new era of warfare, the psychological warfare. People post information online that is far from the truth to make others believe it is the truth. The FBI or the other law enforcement agencies (maybe the DEA) create fake accounts and intercept communication between drug cartel to make sure that they do not get away with their plan. The ISIS has been using social media to broadcast propaganda and recruit new members. There are countless examples of how one can use social media for good or bad purposes. Social Media: It's Not Just a Place to Put Your PicturesIt is evident that the internet has changed our society in ways we cannot yet imagine,
 
 ### Why does Humanity Need Crimes?
 
